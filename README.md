@@ -1,20 +1,20 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/Jessecar96/SteamDesktopAuthenticator/master/icon.png" height="64" width="64" />
   <br/>
-  Steam Desktop Authenticator
+  Steam Masaüstü Kimlik Doğrulayıcı - Steam Desktop Authenticator
 </h1>
 <p align="center">
-  A desktop implementation of Steam's mobile authenticator app.<br/>
-  <sup><b>We are not affiliated with Steam or Scrap.TF in any way!</b> This project is run by community volunteers.
+  Steam mobil kimlik doğrulama uygulamasının alternatif bir masaüstü sürümüdür.<br/>
+  <sup><b>Steam veya Scrap.TF ile hiçbir şekilde bağlantımız yoktur!</b> Bu proje topluluk gönüllüleri tarafından yürütülmektedir.
 </p>
 <h3 align="center">
-  <p>ATTENTION: Steam Desktop Authenticator is no longer supported and will not receive any more updates.</br> You should only use Steam's official mobile app to login to your account. Using SDA or any other tool is dangerous and puts your account at risk.</p>
-  <p>WARNING: Recently there have been fake versions of SDA floating around that will steal your Steam account. Never download SDA from any place other than this github repo!</p>
+  <p>DİKKAT: Steam Masaüstü Kimlik Doğrulayıcı geliştiricisi tarafından artık desteklenmeyecek ve herhangi bir güncelleme almayacak.</br> Hesabınıza giriş yapmak için yalnızca Steam'in resmi mobil uygulamasını kullanmalısınız. SDA veya başka bir araç kullanmak tehlikelidir ve hesabınızı riske atabilir.</p>
+  <p>UYARI: Son zamanlarda Steam hesabınızı çalacak sahte SMKD sürümleri ortalıkta dolaşıyor. SMKD'yı bu github deposundan başka hiçbir yerden asla indirmeyin!</p>
 </h3>
 <h3 align="center" style="margin-bottom:0">
-  <a href="https://github.com/Jessecar96/SteamDesktopAuthenticator/releases/latest">[Download Here]</a>
+  <a href="https://github.com/delidolu1adam/Steam_Desktop_Authenticator_Turkish/releases/latest">[Buradan İndir]</a>
 </h3>
-<p align="center">Supports Windows 10 and up.</p>
+<p align="center">Windows 10 ve üzeri sürümleri destekler.</p>
 <br>
 
 **Clicking "Download ZIP" will not work!** This project uses git submodules so you must use git to download it properly. Using [GitHub Desktop](https://desktop.github.com/) is an easy way to do that.
