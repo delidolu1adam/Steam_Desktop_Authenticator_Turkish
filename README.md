@@ -8,7 +8,7 @@ Steam Masaüstü Kimlik Doğrulayıcı, Steam mobil kimlik doğrulama uygulamas�
 <b>Steam veya Scrap.TF ile hiçbir şekilde bağlantımız yoktur!</b> Bu proje topluluk gönüllüleri tarafından yürütülmektedir.
 </p>
 <h3 align="center">
-  <p>DİKKAT: Steam Masaüstü Kimlik Doğrulayıcı geliştiricisi tarafından artık desteklenmeyecek ve herhangi bir güncelleme almayacak.</br> Hesabınıza giriş yapmak için yalnızca Steam'in resmi mobil uygulamasını kullanmalısınız. SDA veya başka bir araç kullanmak tehlikelidir ve hesabınızı riske atabilir.</p>
+  <p>DİKKAT: Steam Masaüstü Kimlik Doğrulayıcı artık geliştiricisi tarafından desteklenmeyecek ve herhangi bir güncelleme almayacaktır.
   <p>UYARI: Son zamanlarda Steam hesabınızı çalacak sahte SMKD sürümleri ortalıkta dolaşıyor. SMKD'yı bu github deposundan başka hiçbir yerden asla indirmeyin!</p>
 </h3>
 <h3 align="center" style="margin-bottom:0">
