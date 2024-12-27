@@ -1,4 +1,4 @@
-<h1 align="">
+<h1 align="center">
   <img src="https://raw.githubusercontent.com/Jessecar96/SteamDesktopAuthenticator/master/icon.png" height="64" width="64" />
   <br/>
   Steam Masaüstü Kimlik Doğrulayıcı
