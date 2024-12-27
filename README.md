@@ -6,7 +6,7 @@ Steam Masaüstü Kimlik Doğrulayıcı</h1>
 > [!TIP]
 > **Steam** veya **Scrap.TF** ile hiçbir **bağlantısı yoktur**!</b> Bu proje topluluk gönüllüleri tarafından oluşturulmuş ve geliştirilmiştir.
 
-<h1>Hakkında</h1>
+<h1 align="center">Hakkında</h1>
 <p>Bu proje <a href="https://github.com/Jessecar96">Jessecar96</a> tarafından geliştirilmiş <a href="https://github.com/Jessecar96/SteamDesktopAuthenticator">Steam Dekstop Authenticator</a> uygulamasının açık kaynak kodları Türkçe'ye tercüme edilerek ve orjinal kodlarda herhangi bir değişiklik yapılmadan üretilmiş sürümüdür.</p>
 
 > [!TIP]
@@ -15,7 +15,7 @@ Steam Masaüstü Kimlik Doğrulayıcı</h1>
 > [!CAUTION]
 > Son zamanlarda Steam hesabınızı çalmak için üretilmiş sahte SMKD sürümleri ortalıkta dolaşıyor. SMKD'yı bu ve orjinal github depolarından başka hiçbir yerden asla indirmeyin!
 
-<h1>Sorumluluk Reddi</h1>
+<h1 align="center">Sorumluluk Reddi</h1>
 <p>Bu uygulamayı uzun yıllardır kullanıyorum ve şimdiye kadar da Valve tarafından yasaklanmadım ve yasaklanan birini de hiç duymadım. Ancak bu hesabınızın yasaklanmayacağı anlamına gelmez. Bu uygulamayı kullanmadan önce, hesabınızın yasaklanma riskini göz önünde bulundurarak kullanıp ya da kullanmamak tamamen kendi sorumluluğunuzdadır.</p>
 
 > [!CAUTION]
@@ -27,7 +27,7 @@ Steam Masaüstü Kimlik Doğrulayıcı</h1>
 > [!WARNING]
 >  Kullandığınız uygulama ile ilgili hiç bir sorumluluğu kabul etmediğim gibi Steam Masaüstü Kimlik Doğrulayıcı uygulamasını kullanırken size hiçbir destek sağlamıyorum!
 
-<h1>Bilinmesi Gerekenler</h1>
+<h1 align="center">Bilinmesi Gerekenler</h1>
 
 <p><b>BU UYGULAMA HESABINIZI KORUMAZ; SADECE TELEFON OLMADAN KİMLİK DOĞRULAYICI GEREKTİREN STEAM ÖZELLİKLERİNİ KULLANMANIZA İZİN VERİR.</b> Steam Mobil Kimlik Doğrulayıcıyı destekleyen bir telefonunuz varsa, bu uygulamayı kesinlikle kullanmamalısınız!</p>
 <p>Bu uygulamayı yine de kullanmak istiyorsanız GÜVENLİ bir bilgisayarda kullandığınızdan emin olun, çünkü  bilgisayarınıza bir virüs enfekte olursa, Steam masaüstü kimlik doğrulama uygulamasının dosyalarını çalarak Steam hesaplarınız ele geçirebilir ve hesap korumasını tamamen kaldırabilir.</p>
