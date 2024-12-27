@@ -7,11 +7,9 @@ Steam Masaüstü Kimlik Doğrulayıcı, Steam mobil kimlik doğrulama uygulamas�
 </p>
 
 <h1>Proje Hakkında</h1>
-
-<h3 align="center">
-  <p>DİKKAT: Steam Masaüstü Kimlik Doğrulayıcı artık geliştiricisi tarafından desteklenmeyecek ve herhangi bir güncelleme almayacaktır.
+<p>DİKKAT: Steam Masaüstü Kimlik Doğrulayıcı artık geliştiricisi tarafından desteklenmeyecek ve herhangi bir güncelleme almayacaktır.
   <p>UYARI: Son zamanlarda Steam hesabınızı çalacak sahte SMKD sürümleri ortalıkta dolaşıyor. SMKD'yı bu github deposundan başka hiçbir yerden asla indirmeyin!</p>
-</h3>
+
 <h3 align="center" style="margin-bottom:0">
   <a href="https://github.com/delidolu1adam/Steam_Desktop_Authenticator_Turkish/releases/latest">[Buradan İndir]</a>
 </h3>
