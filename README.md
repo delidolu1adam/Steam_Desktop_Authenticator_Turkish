@@ -9,7 +9,7 @@
 <h1 align="center">ℹ️ Hakkında</h1>
 <p>Bu proje <a href="https://github.com/Jessecar96">Jessecar96</a> tarafından geliştirilmiş <a href="https://github.com/Jessecar96/SteamDesktopAuthenticator">Steam Dekstop Authenticator</a> uygulamasının açık kaynak kodları Türkçe'ye tercüme edilerek ve orjinal kodlarda herhangi bir değişiklik yapılmadan üretilmiş sürümüdür.</p>
 
-> [!TIP]
+> [!IMPORTANT]
 > Steam Masaüstü Kimlik Doğrulayıcı uygulaması artık geliştiricisi tarafından **desteklenmeyecek** ve **güncellenmeyecek**.
 
 > [!CAUTION]
@@ -26,7 +26,7 @@
 
 <p>Uygulamayı kullanmadan önce <a href="https://github.com/Jessecar96/SteamDesktopAuthenticator">buraya</a> tıklayarak kaynak kodlarını inceleyebilirsiniz. Uygulamayı indirmeden önce dosya taraması için <a href="https://www.virustotal.com/gui/home/url">buraya</a> tıklayın veya indirmiş olduğunuz ZIP dosyasında virüs taraması yapmak için <a href="https://www.virustotal.com/gui/home/file">buraya</a> tıklayın.</p>
 
-> [!CAUTION]
+> [!NOTE]
 > Hesabım çalındı, bilgilerim ele geçirildi vb. sahte yorumlara lütfen kulak asmayınız.
 
 <h1 align="center">💡 Bilinmesi Gerekenler</h1>
