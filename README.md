@@ -19,7 +19,7 @@ Steam Masaüstü Kimlik Doğrulayıcı, Steam mobil kimlik doğrulama uygulamas�
 
 **Clicking "Download ZIP" will not work!** This project uses git submodules so you must use git to download it properly. Using [GitHub Desktop](https://desktop.github.com/) is an easy way to do that.
 
-**DISCLAIMER: We provide no support for you when using Steam Desktop Authenticator! Steam Desktop Authenticator is no longer supported and will not receive any more updates. This project was made by community volunteers and is not affiliated with Steam or Scrap.TF. You use this program at your own risk, and accept the responsibility to make backups and prevent unauthorized access to your computer!**
+**SORUMLULUK REDDİ: Bu uygulamayı uzun yıllardır kullanıyorum ve şimdiye kadar da Valve tarafından yasaklanmadım ve yasaklanan birini de duymadım. Ancak bunun yin de bir garantisi yok. Bu uygulamayı kullanmadan önce, hesabınızın yasaklanma riskini göz önünde bulundurarak kullanıp ya da kullanmamak tamamen kendi insiyatifinizdedir. Bu uygulamada herhangi bir Virüs ya da Trojen yoktur, kullanmadan önce dosyaları bir virüs taramasından geçirmeniz önemle arz edilir. Dilerseniz uygulamanın kaynak kodlarını da inceleyebilirsiniz. Bu konuda hiç bir sorumluluk kabul etmediğim gibi Steam Masaüstü Kimlik Doğrulayıcı uygulama kullanırken size hiçbir destek sağlamıyorum!**
 
 **REMEMBER: Always make backups of your `maFiles` directory! If you lose your encryption key or delete `maFiles` by accident AND you didn't save your revocation code, you are screwed.**
 
