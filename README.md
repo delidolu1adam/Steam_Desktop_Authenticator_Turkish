@@ -18,14 +18,16 @@
 <h1 align="center">⛔ Sorumluluk Reddi</h1>
 <p>Bu uygulamayı uzun yıllardır kullanıyorum ve şimdiye kadar da Valve tarafından yasaklanmadım ve yasaklanan birini de hiç duymadım. Ancak bu hesabınızın yasaklanmayacağı anlamına gelmez. Bu uygulamayı kullanmadan önce, hesabınızın yasaklanma riskini göz önünde bulundurarak kullanıp ya da kullanmamak tamamen kendi sorumluluğunuzdadır.</p>
 
-> [!CAUTION]
-> Herhangi bir virüs yada zararlı kod içermez. Bu konuda yapılan sahte yorumlara da lütfen kulak asmayınız.
-
-<p>Uygulamayı kullanmadan önce <a href="https://github.com/Jessecar96/SteamDesktopAuthenticator">buraya</a> tıklayarak kaynak kodlarını inceleyebilirsiniz. Uygulamayı indirmeden önce dosya taraması için <a href="https://www.virustotal.com/gui/home/url">buraya</a> tıklayın veya indirmiş olduğunuz ZIP dosyasında virüs taraması yapmak için <a href="https://www.virustotal.com/gui/home/file">buraya</a> tıklayın.
-</p>
-
 > [!WARNING]
 >  Kullandığınız uygulama ile ilgili hiç bir sorumluluğu kabul etmediğim gibi Steam Masaüstü Kimlik Doğrulayıcı uygulamasını kullanırken size hiçbir destek sağlamıyorum!
+
+<h1 align="center">🛡️ Virüs, Veri Sızıntısı ve Bitcoin Madenciliği</h1>
+<p>Yazılım açık kaynak kodlu olduğundan tüm kodları inceleyebilirsiniz. Herhangi bir virüs yada zararlı kod içermez.</p>
+
+<p>Uygulamayı kullanmadan önce <a href="https://github.com/Jessecar96/SteamDesktopAuthenticator">buraya</a> tıklayarak kaynak kodlarını inceleyebilirsiniz. Uygulamayı indirmeden önce dosya taraması için <a href="https://www.virustotal.com/gui/home/url">buraya</a> tıklayın veya indirmiş olduğunuz ZIP dosyasında virüs taraması yapmak için <a href="https://www.virustotal.com/gui/home/file">buraya</a> tıklayın.</p>
+
+> [!CAUTION]
+> Hesabım çalındı, bilgilerim ele geçirildi vb. sahte yorumlara lütfen kulak asmayınız.
 
 <h1 align="center">💡 Bilinmesi Gerekenler</h1>
 
