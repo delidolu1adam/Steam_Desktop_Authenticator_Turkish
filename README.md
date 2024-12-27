@@ -1,14 +1,16 @@
 <h1 align="center">
 <img src="https://raw.githubusercontent.com/Jessecar96/SteamDesktopAuthenticator/master/icon.png" height="64" width="64"/><br/>
 Steam Masaüstü Kimlik Doğrulayıcı</h1>
-<p>Steam Masaüstü Kimlik Doğrulayıcı, Steam mobil kimlik doğrulama uygulamasının alternatif bir masaüstü sürümüdür.<br/> Bu proje <a href="https://github.com/Jessecar96" target="_blank">Jessecar96</a> tarafından geliştirilmiş <a href="https://github.com/Jessecar96/SteamDesktopAuthenticator" target="_blank">Steam Dekstop Authenticator</a> uygulamasının açık kaynak kodları Türkçe'ye tercüme edilerek ve orjinal kodlarda herhangi bir değişiklik yapılmadan üretilmiştir.</br></br>
-<b>Steam veya Scrap.TF ile hiçbir şekilde bağlantımız yoktur!</b> Bu proje topluluk gönüllüleri tarafından yürütülmektedir.
+<p>Steam Masaüstü Kimlik Doğrulayıcı, Steam mobil kimlik doğrulama uygulamasının alternatif bir masaüstü sürümüdür.<br/> Bu proje <a href="https://github.com/Jessecar96" target="_blank">Jessecar96</a> tarafından geliştirilmiş <a href="https://github.com/Jessecar96/SteamDesktopAuthenticator" target="_blank">Steam Dekstop Authenticator</a> uygulamasının açık kaynak kodları Türkçe'ye tercüme edilerek ve orjinal kodlarda herhangi bir değişiklik yapılmadan üretilmiştir.
 </p>
+
+> [!TIP]
+> **Steam** veya **Scrap.TF** ile hiçbir **bağlantımız yoktur**!</b> Bu proje topluluk gönüllüleri tarafından yürütülmektedir.
 
 <h1>Proje Hakkında</h1>
 
-> [!CAUTION]
-> Steam Masaüstü Kimlik Doğrulayıcı artık geliştiricisi tarafından **desteklenmeyecek** ve **güncellenmeyecek**.
+> [!WARNING]
+> Steam Masaüstü Kimlik Doğrulayıcı uygulaması artık geliştiricisi tarafından **desteklenmeyecek** ve **güncellenmeyecek**.
 
 > [!CAUTION]
 > Son zamanlarda Steam hesabınızı çalmak için üretilmiş sahte SMKD sürümleri ortalıkta dolaşıyor. SMKD'yı bu ve orjinal github depolarından başka hiçbir yerden asla indirmeyin!
