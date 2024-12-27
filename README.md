@@ -1,13 +1,13 @@
 <h1 align="center">
 <img src="https://raw.githubusercontent.com/Jessecar96/SteamDesktopAuthenticator/master/icon.png" height="64" width="64"/><br/>
-🔒 Steam Masaüstü Kimlik Doğrulayıcı</h1>
+🔒 Steam Masaüstü Kimlik Doğrulayıcı v1.0.15</h1>
 <p><b>Steam Masaüstü Kimlik Doğrulayıcı</b>, sadece mobil cihazlarda kullanılabilen <b>Steam Mobil Kimlik Doğrulama</b> uygulamasının alternatif bir masaüstü sürümüdür. Üretilme amacı sadece Türkçe'ye çevirmek ve İngilizce bilmeyen herkes tarafından kullanılabilmesini sağlamaktır.</p>
 
 > [!TIP]
 > **Steam** veya **Scrap.TF** ile hiçbir **bağlantısı yoktur**!</b> Bu proje topluluk gönüllüleri tarafından oluşturulmuş ve geliştirilmiştir.
 
 <h1 align="center">ℹ️ Hakkında</h1>
-<p>Bu proje <a href="https://github.com/Jessecar96">Jessecar96</a> tarafından geliştirilmiş <a href="https://github.com/Jessecar96/SteamDesktopAuthenticator">Steam Dekstop Authenticator</a> uygulamasının açık kaynak kodları Türkçe'ye tercüme edilerek ve orjinal kodlarda herhangi bir değişiklik yapılmadan üretilmiş sürümüdür.</p>
+<p>Bu proje <a href="https://github.com/Jessecar96">Jessecar96</a> tarafından geliştirilmiş <a href="https://github.com/Jessecar96/SteamDesktopAuthenticator">Steam Dekstop Authenticator</a> uygulamasının son sürümü olan 1.0.15 açık kaynak kodları Türkçe'ye tercüme edilerek ve orjinal kodlarda herhangi bir değişiklik yapılmadan üretilmiş sürümüdür.</p>
 
 > [!IMPORTANT]
 > Steam Masaüstü Kimlik Doğrulayıcı uygulaması artık geliştiricisi tarafından **desteklenmeyecek** ve **güncellenmeyecek**.
