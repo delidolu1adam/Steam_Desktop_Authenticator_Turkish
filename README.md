@@ -16,7 +16,7 @@
 > Son zamanlarda Steam hesabınızı çalmak için üretilmiş sahte SMKD sürümleri ortalıkta dolaşıyor. SMKD'yı bu ve orjinal github depolarından başka hiçbir yerden asla indirmeyin!
 
 <h1 align="center">⛔ Sorumluluk Reddi</h1>
-<p>Bu uygulamayı uzun yıllardır kullanıyorum ve şimdiye kadar da Valve tarafından yasaklanmadım ve yasaklanan birini de hiç duymadım. Ancak bu hesabınızın yasaklanmayacağı anlamına gelmez. Bu uygulamayı kullanmadan önce, hesabınızın yasaklanma riskini göz önünde bulundurarak kullanıp ya da kullanmamak tamamen kendi sorumluluğunuzdadır.</p>
+<p>Bu uygulamayı uzun yıllardır kullanıyorum ve şimdiye kadar da Valve tarafından yasaklanmadım ve yasaklanan birini de hiç duymadım. Ancak bu hesabınızın yasaklanmayacağı anlamına gelmez. Bu uygulamayı kullanmadan önce, hesabınızın yasaklanma riskini göz önünde bulundurarak kullanıp ya da kullanmamak tercihi tamamen size bırakılmıştır.</p>
 
 > [!WARNING]
 >  Kullandığınız uygulama ile ilgili hiç bir sorumluluğu kabul etmediğim gibi Steam Masaüstü Kimlik Doğrulayıcı uygulamasını kullanırken size hiçbir destek sağlamıyorum!
@@ -38,4 +38,4 @@
 
 <p>Eğer <b>maFiles</b> klasörünüzü veya şifreleme anahtarınızı kaybettiyseniz, <a href="https://store.steampowered.com/twofactor/manage">buraya</a> gidin ve <b>Kimlik Doğrulayıcıyı Kaldır</b>'a tıklayın, ardından hesabınızı ilk kez SMKD'ya eklediğinizde not ettiğiniz iptal etme kodunuzu girin.</p>
 
-<p>Tüm uyarılara rağmen size verilen talimatları takip etmediyseniz ve iptal etme kodunuzu not etmediyseniz, kesinlikle mahvolmuşsunuz demektir. Tek seçenek <a href="https://support.steampowered.com/">Steam Destek</a> sayfasına başvurarak mobil kimlik doğrulayıcınızı ve iptal etme kodunuzu kaybettiğinizi söylemektir. Sizden hesabın ilk oluşturduğu anda kullanılan E-posta adresi, Telefon, Son Satın Alma Geçmişi vb. bilgiler istenebilir, eğer bunları sağlayabilirseniz hesabınızı geri almanız çok kolay. Ancak bu bilgilerin hiç birini sağlayamaz ya da eksik bilgi sağlarsanız hesabınızı almanın hiç bir yolu yoktur. Bu sadece Steam Masaüstü Kimlik Doğrulayıcı için değil, Steam Mobil Kimlik Doğrulayıcı için de geçerlidir.</p>
+<p>Tüm uyarılara rağmen size verilen talimatları takip etmediyseniz ve iptal etme kodunuzu not etmediyseniz, kesinlikle mahvolmuşsunuz demektir. Tek seçenek <a href="https://support.steampowered.com/">Steam Destek</a> sayfasına başvurarak mobil kimlik doğrulayıcınızı ve iptal etme kodunuzu kaybettiğinizi söylemektir. Sizden hesabın ilk oluşturduğu anda kullanılan E-posta adresi, Telefon, Son Satın Alma Geçmişi vb. bilgiler istenebilir, eğer bunları sağlayabilirseniz hesabınızı geri almanız çok kolay. Ancak bu bilgilerin hiç birini sağlayamaz ya da eksik bilgi sağlarsanız hesabınızı almanın hiç bir yolu yoktur. <b>Bu sadece Steam Masaüstü Kimlik Doğrulayıcı için değil, Steam Mobil Kimlik Doğrulayıcı için de geçerlidir.</b></p>
