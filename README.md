@@ -38,4 +38,8 @@
 
 <p>Eğer <b>maFiles</b> klasörünüzü veya şifreleme anahtarınızı kaybettiyseniz, <a href="https://store.steampowered.com/twofactor/manage">buraya</a> gidin ve <b>Kimlik Doğrulayıcıyı Kaldır</b>'a tıklayın, ardından hesabınızı ilk kez SMKD'ya eklediğinizde not ettiğiniz iptal etme kodunuzu girin.</p>
 
-<p>Tüm uyarılara rağmen size verilen talimatları takip etmediyseniz ve iptal etme kodunuzu not etmediyseniz, kesinlikle mahvolmuşsunuz demektir. Tek seçenek <a href="https://support.steampowered.com/">Steam Destek</a> sayfasına başvurarak mobil kimlik doğrulayıcınızı ve iptal etme kodunuzu kaybettiğinizi söylemektir. Sizden hesabın ilk oluşturduğu anda kullanılan E-posta adresi, Telefon, Son Satın Alma Geçmişi vb. bilgiler istenebilir, eğer bunları sağlayabilirseniz hesabınızı geri almanız çok kolay. Ancak bu bilgilerin hiç birini sağlayamaz ya da eksik bilgi sağlarsanız hesabınızı almanın hiç bir yolu yoktur. <b>Bu sadece Steam Masaüstü Kimlik Doğrulayıcı için değil, Steam Mobil Kimlik Doğrulayıcı için de geçerlidir.</b></p>
+<p>Tüm uyarılara rağmen size verilen talimatları takip etmediyseniz ve iptal etme kodunuzu not etmediyseniz, kesinlikle mahvolmuşsunuz demektir.</br>
+Tek seçenek <a href="https://support.steampowered.com/">Steam Destek</a> sayfasına başvurarak mobil kimlik doğrulayıcınızı ve iptal etme kodunuzu kaybettiğinizi söylemektir.</br>
+Sizden hesabın ilk oluşturduğu anda kullanılan E-posta adresi, Telefon, Son Satın Alma Geçmişi vb. bilgiler istenebilir, eğer bunları sağlayabilirseniz hesabınızı geri almanız çok kolay.</br>
+Ancak bu bilgilerin hiç birini sağlayamaz ya da eksik bilgi sağlarsanız hesabınızı almanın hiç bir yolu yoktur.</br>
+<b>Bu sadece Steam Masaüstü Kimlik Doğrulayıcı için değil, Steam Mobil Kimlik Doğrulayıcı için de geçerlidir.</b></p>
